@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hs7zoNr19KMhsekjoRonyPsShftvap2CxzSc9c28xVkHI6B+ACexoKAueBS7qamw5C3x0EhpV+KRro/oMV8ejg==",
+  "success": true,
+  "projectFilePath": "C:\\Xamarin\\StickerTime\\StickerTimeSln\\StickerTime\\StickerTime.iOS\\StickerTime.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
